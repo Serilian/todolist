@@ -5,4 +5,5 @@ public final class Mappings {
     }
 
     public static final String ITEMS = "items";
+    public static final String ADDITEM = "addItem";
 }
