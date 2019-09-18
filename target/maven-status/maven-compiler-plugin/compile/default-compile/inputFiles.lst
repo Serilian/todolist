@@ -1,13 +1,10 @@
-C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\service\DemoService.java
+C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\util\ViewNames.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\config\WebConfig.java
-C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\controller\DemoController.java
+C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\controller\TodoItemController.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\service\TodoItemService.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\model\TodoItem.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\util\Mappings.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\config\WebAppInitializer.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\model\TodoData.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\service\TodoServiceImpl.java
-C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\util\ViewNames.java
-C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\service\DemoServiceImpl.java
-C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\controller\TodoItemController.java
 C:\Development\Training projects\Java\SpringMasterclass\todolist\src\main\java\pl\filiphagno\util\AttributeNames.java

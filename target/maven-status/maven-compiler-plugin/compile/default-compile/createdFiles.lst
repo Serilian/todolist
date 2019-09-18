@@ -1,13 +1,10 @@
 pl\filiphagno\config\WebAppInitializer.class
+pl\filiphagno\util\AttributeNames.class
 pl\filiphagno\model\TodoData.class
+pl\filiphagno\config\WebConfig.class
 pl\filiphagno\controller\TodoItemController.class
-pl\filiphagno\service\DemoServiceImpl.class
+pl\filiphagno\util\ViewNames.class
 pl\filiphagno\service\TodoItemService.class
+pl\filiphagno\util\Mappings.class
 pl\filiphagno\model\TodoItem.class
 pl\filiphagno\service\TodoServiceImpl.class
-pl\filiphagno\service\DemoService.class
-pl\filiphagno\util\AttributeNames.class
-pl\filiphagno\controller\DemoController.class
-pl\filiphagno\config\WebConfig.class
-pl\filiphagno\util\ViewNames.class
-pl\filiphagno\util\Mappings.class
